@@ -96,7 +96,7 @@ def changing_alan
      }
     alans_new_info = "GUI"
     
-    programmer_hash[][]
+    programmer_hash[:alan_kay][]
      
 end
 
